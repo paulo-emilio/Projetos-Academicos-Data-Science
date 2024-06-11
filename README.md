@@ -10,7 +10,7 @@ Projetos acadêmicos desenvolvidos durante minha busca por aprendizado na área 
 | :rocket: URL        | [Análise Descritivas - Python e SQL](Analise-Descritiva)<br>[Business Intelligence - Google Sheets, Excel e Power BI](Business-Intelligence)<br>[Machine Learning - Python](Machine-Learning)<br>[Modelagem Estatistica - Python](Modelagem-Estatistica)<br>[Pós-graduação Data Science](Pos-Graduacao-Data-Science)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-[![](Analise-Descritiva/IBGE-Python/prints/wallpaper.jpeg#vitrinedev)](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](Analise-Descritiva/IBGE-Python/prints/wallpaper.jpg#vitrinedev)]()
 
 ## Detalhes do projeto
 
