@@ -1,6 +1,7 @@
 # Projetos em Data Science
 
-Projetos desenvolvidos durante minha busca por aprendizado na área de Ciência de Dados.
+Projetos acadêmicos desenvolvidos durante minha busca por aprendizado na área de Ciência de Dados.
+
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
