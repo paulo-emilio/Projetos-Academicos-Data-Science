@@ -12,12 +12,8 @@ Projetos acadêmicos desenvolvidos durante minha busca por aprendizado na área 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 [![Regressao-Linear](Regressao-Linear/prints/print.png#vitrinedev)](Regressao-Linear/Projeto)
 
-[![Amostra-de-domicilios](Probabilidades-e-Estimacoes/prints/print.png)](Probabilidades-e-Estimacoes/Projeto/Pesquisa-Nacional-por-Amostra-de-Domicilios.ipynb)
-
-[![IBGE](Analise-Descritiva/IBGE-Python/prints/print.png)](Analise-Descritiva/IBGE-Python/Projeto/Analise-Descritiva-IBGE.ipynb)
-
-[![EC-Pos](Projeto-Pos-Graduacao-Data-Science/prints/EC-Limpeza-e-tratamento-dados.png)](Projeto-Pos-Graduacao-Data-Science/Limpeza%20e%20Tratamento%20de%20Dados%20com%20Python%20-%20Paulo%20Emilio%20Oliveira.pdf)
-
 ## Detalhes do projeto
 
-Projetos desenvolvidos utilizando o Anaconda e Jupyter Notebook para: análise de dados, estatística, modelagem, visualização e machine learnig com python, utilizando bibliotecas como: Seaborn, Matplotlib, SciPy, Pandas, scikit-learn, entre outros. 
+Projetos desenvolvidos com Python no Jupyter Notebook, utilizando bibliotecas como: Seaborn, Matplotlib, SciPy, Pandas, scikit-learn, entre outros. Além de projetos desenvolvidos em Excel, Google Sheets e Databricks.
+
+Análise, modelagem e visualização de dados; estatística e machine learnig.
