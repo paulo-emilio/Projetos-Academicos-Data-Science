@@ -6,7 +6,7 @@ Projetos acadêmicos desenvolvidos durante minha busca por aprendizado na área 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
 | :sparkles: Nome        | **Projetos Acadêmicos Data Science**
-| :label: Tecnologias | python, anaconda, jupyter, sql, excel
+| :label: Tecnologias | python, anaconda, jupyter, sql, excel, power bi
 | :rocket: URL        | [Análise Descritivas - Python e SQL](Analise-Descritiva)<br>[Business Intelligence - Google Sheets, Excel e Power BI](Business-Intelligence)<br>[Machine Learning - Python](Machine-Learning)<br>[Modelagem Estatistica - Python](Modelagem-Estatistica)<br>[Pós-graduação Data Science](Pos-Graduacao-Data-Science)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
